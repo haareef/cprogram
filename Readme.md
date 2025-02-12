@@ -3,12 +3,9 @@
 
 This particular repository contains c programming problems.
 
-
-
-
 ## Authors
 
-- [Haareef](https://www.linkedin.com/in/haareefma)
+- [Haareef](https://www.linkedin.com/in/haareef-ma)
 
 
  
